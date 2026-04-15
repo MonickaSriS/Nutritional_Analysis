@@ -1,0 +1,41 @@
+food_name,calories,protein,carbs,fat
+Apple,52,0.3,14,0.2
+Banana,89,1.1,23,0.3
+Orange,47,0.9,12,0.1
+Mango,60,0.8,15,0.4
+Papaya,43,0.5,11,0.3
+Grapes,69,0.7,18,0.2
+Pineapple,50,0.5,13,0.1
+Watermelon,30,0.6,8,0.2
+Potato boiled,87,1.9,20,0.1
+Sweet potato,86,1.6,20,0.1
+Rice cooked,130,2.7,28,0.3
+Chapati,297,11,56,7
+Bread white,266,9,49,3.2
+Oats,389,17,66,7
+Corn,96,3.4,21,1.5
+Milk,42,3.4,5,1
+Curd,61,3.5,4.7,3.3
+Paneer,296,18,6,22
+Cheese,402,25,1.3,33
+Butter,717,0.9,0.1,81
+Egg,155,13,1.1,11
+Chicken breast,165,31,0,3.6
+Mutton,294,25,0,21
+Fish,206,22,0,12
+Prawns,99,24,0.2,0.3
+Dal cooked,116,9,20,0.4
+Chickpeas,164,9,27,2.6
+Rajma,127,8.7,22,0.5
+Peanuts,567,26,16,49
+Almonds,579,21,22,50
+Cashews,553,18,30,44
+Sunflower oil,884,0,0,100
+Olive oil,884,0,0,100
+Sugar,387,0,100,0
+Honey,304,0.3,82,0
+Chocolate,546,4.9,61,31
+Ice cream,207,3.5,24,11
+Pizza,266,11,33,10
+Burger,295,17,30,13
+
